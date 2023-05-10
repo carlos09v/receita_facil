@@ -1,0 +1,28 @@
+            # Receita Fácil
+		# Projeto realizado de 03 a 06 de abril
+
+1. Aula 1
+    1.1 Conhecendo o Projeto
+    1.2 Configurando ambiente
+        1.2.1. NodeJS
+        1.2.1. Expo - React Native
+    1.3 Conhecendo o React Native e Iniciando Projeto
+    1.4 Criando a página Home
+
+2. Aula 2
+    2.1 Conhecer JSON-Server API
+        2.1.1. Criar o arquivo db.json
+    2.2 Como trabalhar com requisições http
+    2.3 Conhecer o useEffect
+    2.4 Criar a listagem de receitas
+    2.5 Criar a listagem na página Search
+    2.6 Navegar até a tela de Detalhes da receita
+
+3. Aula 3
+    3.1 Criar o layout da página detalhes da receita
+    3.2 Criar o modal do video
+    3.3 Criar o botão Share (compartilhar receita)
+    3.4 Criar sistema para favoritar receitas
+    3.5 Criar página favoritos e listar todas receitas favoritadas
+    3.6 Criar página de Busca
+    3.7 Criar animações
